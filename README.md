@@ -4,7 +4,7 @@
 ### Hello 👋
 
 - 🔭 I’m currently working on algorithm PS with Python
-- 🌱 I’m currently learning Machine Learning , Deep Learning
+- 🌱 I’m currently interested in Machine Learning , Deep Learning
 
 - Techs I've used least one :
 
