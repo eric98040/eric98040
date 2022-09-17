@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on algorithm PS with Python
-- 🌱 I’m currently learning ML, DL
+- 🌱 I’m currently learning Machine Learning , Deep Learning
 
 [![Solved.ac
 jwk0302](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwk0302)](https://solved.ac/jwk0302)
