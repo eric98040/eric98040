@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on algorithm PS with Python
+- 🌱 I’m currently learning ML, DL
+
+[![Solved.ac
+jwk0302](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwk0302)](https://solved.ac/jwk0302)
+
 <!--
 **eric98040/eric98040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
