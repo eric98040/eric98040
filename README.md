@@ -6,11 +6,15 @@
 - 🔭 I’m currently working on algorithm PS with Python
 - 🌱 I’m currently learning Machine Learning , Deep Learning
 
+- Techs I've used least one :
+
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="UnrealEngine" src ="https://img.shields.io/badge/Unreal-00599C.svg?&style=for-the-badge&logo=Unreal Engine&logoColor=white"/>
+
 
 [![Solved.ac
 jwk0302](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwk0302)](https://solved.ac/jwk0302)
 
-![Jaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric98040&show_icons=true&theme=tokyonight)
+![Jaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric98040&show_icons=true&theme=merko)
 
 
 
