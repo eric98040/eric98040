@@ -9,7 +9,9 @@
 
 * Jaewon Kim
 * Korea University Undergraduate (2022~) - Majoring Semiconductor Engineering
+* Sk Hynix Full Scholarship (2022~2028)
 * Interests: Machine Learning, Deep Learing, Computer vision, NLP, Algorithms, etc...
+
 
 - **I'm looking forward to** (if possible..) : 
     * Naver Clova AI Rush 2023
@@ -21,6 +23,7 @@
 
 + 2022
     + Freshman 
+    + 1st semester GPA 4.5/4.5
     + Started programming since 2022.06.16
     + Studied Basic data structures, Algorithms
     + Studied [Do it! 알고리즘 코딩 테스트 - 파이썬 편](https://github.com/eric98040/Do-It-Algorithm-Coding-Test)
