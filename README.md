@@ -3,6 +3,11 @@
 # Jaewon Kim (eric98040)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feric98040&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eric98040@gmail.com)](mailto:eric98040@gmail.com)
+[![Facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005365142404)](https://www.facebook.com/profile.php?id=100005365142404)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jae.__.one/)](https://www.instagram.com/jae.__.one/)
+
+
 
 
 ### Hello 👋
@@ -37,7 +42,7 @@
 ## 💻 Online Judge
 
 * BOJ: [jwk0302](http://icpc.me/jwk0302)
-* solvedac: [jwk0302](https://solved.ac/profile/jwk0302)
+* Solved.ac: [jwk0302](https://solved.ac/profile/jwk0302)
 
 #### BOJ solved.ac Rank
 
