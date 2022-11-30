@@ -11,10 +11,19 @@
 * Korea University Undergraduate (2022~) - Majoring Semiconductor Engineering
 * Interests: Machine Learning, Deep Learing, Computer vision, NLP, Algorithms, etc...
 
+- **I'm looking forward to** : 
+    * Naver Clova AI Rush 2023
+    * Samsung Software Maestro 2023
+    * Naver AI Tech BoostCamp 2023
+    * KUBIG application
+    * Undergraduate Research Student at [DSBA](http://dsba.korea.ac.kr)
+
+
 + 2022
     + Freshman 
     + Started programming since 2022.06.16
     + Studied Basic data structures, Algorithms
+    + Studied [Do it! 알고리즘 코딩 테스트 - 파이썬 편](https://github.com/eric98040/Do-It-Algorithm-Coding-Test)
 
 
 - Techs I've used least one :
