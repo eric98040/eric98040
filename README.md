@@ -11,7 +11,7 @@
 * Korea University Undergraduate (2022~) - Majoring Semiconductor Engineering
 * Interests: Machine Learning, Deep Learing, Computer vision, NLP, Algorithms, etc...
 
-- **I'm looking forward to** : 
+- **I'm looking forward to** (if possible..) : 
     * Naver Clova AI Rush 2023
     * Samsung Software Maestro 2023
     * Naver AI Tech BoostCamp 2023
