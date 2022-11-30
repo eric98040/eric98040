@@ -17,9 +17,6 @@
 [![Solved.ac
 jwk0302](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwk0302)](https://solved.ac/jwk0302)
 
-
-![Jaewon's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jwk0302)
-
 #### Jaewon's Github stats
 
 [![Jaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric98040)](https://github.com/DetegiCE/github-readme-stats)
