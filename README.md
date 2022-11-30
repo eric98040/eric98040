@@ -10,11 +10,18 @@
 
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="UnrealEngine" src ="https://img.shields.io/badge/Unreal-00599C.svg?&style=for-the-badge&logo=Unreal Engine&logoColor=white"/>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feric98040&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+#### BOJ solved.ac Rank
 
 [![Solved.ac
 jwk0302](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwk0302)](https://solved.ac/jwk0302)
 
-![Jaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric98040&show_icons=true&theme=merko)
+
+![Jaewon's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jwk0302)
+
+
+[![Jaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric98040)](https://github.com/DetegiCE/github-readme-stats)
 
 
 
