@@ -11,11 +11,11 @@
 * Korea University Undergraduate (2022~) - Majoring Semiconductor Engineering
 * Interests: Machine Learning, Deep Learing, Computer vision, NLP, Algorithms, etc...
 
++ 2022
+    + Freshman 
+    + Started programming since 2022.06.16
+    + Studied Basic data structures, Algorithms
 
-- 🔭 I’m currently working on algorithm PS with Python
-
-- 🌱 I’m currently interested in Machine Learning , Deep Learning
-<br/>
 
 - Techs I've used least one :
 
