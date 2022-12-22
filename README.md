@@ -13,12 +13,12 @@
 ### Hello 👋
 
 * Jaewon Kim
-* Korea University Undergraduate (2022~) - Majoring Semiconductor Engineering
+* Korea University Undergraduate (2022~) - Majoring in Semiconductor Engineering
 * Sk Hynix Full Scholarship (2022~2028)
-* Interests: Machine Learning, Deep Learing, Computer vision, NLP, Algorithms, etc...
+* Interests: Machine Learning, Deep Learning, Computer vision, NLP, Algorithms, etc...
 
 
-- **I'm looking forward to** (if possible..) : 
+- **I'm looking forward to** (if possible) : 
     * Naver Clova AI Rush 2023
     * Samsung Software Maestro 
     * Naver AI Tech BoostCamp 
