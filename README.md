@@ -42,13 +42,13 @@
     + Sophomore  
     + Studying [이것이 취업을 위한 코딩 테스트다 with 파이썬](https://github.com/eric98040/python-for-coding-test)
     + Studying [혁펜하임의 AI DEEP DIVE](https://storage.googleapis.com/static.fastcampus.co.kr/prod/uploads/202211/080558-707/[%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4]-%EA%B5%90%EC%9C%A1%EA%B3%BC%EC%A0%95%EC%86%8C%EA%B0%9C%EC%84%9C-%ED%98%81%ED%8E%9C%ED%95%98%EC%9E%84%EC%9D%98-ai-deep-dive--online.-.pdf)
-    + Studying [플러터 UI 입문](https://github.com/flutter-coder/flutter-ui-book1) 
+    + Studying [Flutter UI Intro : 플러터 UI 입문](https://github.com/eric98040/Flutter_UI_Intro) 
 
 
 
 - Techs I've used least one :
 
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="UnrealEngine" src ="https://img.shields.io/badge/Unreal-00599C.svg?&style=for-the-badge&logo=Unreal Engine&logoColor=white"/>
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-2AB1AC?style=for-the-badge&logo=Dart&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-13AFF0?style=for-the-badge&logo=Flutter&logoColor=white"> <img alt="UnrealEngine" src ="https://img.shields.io/badge/Unreal-0E1128.svg?&style=for-the-badge&logo=Unreal Engine&logoColor=white"/>
 
 
 ## 💻 Online Judge
