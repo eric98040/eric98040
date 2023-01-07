@@ -72,7 +72,7 @@ jwk0302](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwk0302)](https://sol
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric98040&layout=compact&langs_count=10)](https://github.com/eric98040)
 
 ### Frequently Used       
-![Python](https://img.shields.io/badge/Python-3775a9?style=flat-square&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3775a9?style=flat-square&logo=Python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-2AB1AC?style=flat-square&logo=Dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-13AFF0?style=flat-square&logo=Flutter&logoColor=white)
 
 ### Used at Least Once Anyway...
 ![Unreal](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat-square&logo=Unreal%20Engine&logoColor=white)
