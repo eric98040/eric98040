@@ -9,7 +9,6 @@
 
 
 
-
 ### Hello 👋
 
 * Jaewon Kim
@@ -28,8 +27,7 @@
 
 + 2022
     + Freshman 
-    + 1st semester GPA 4.5/4.5
-    + 2nd semester GPA 4.41/4.5
+    + GPA 4.46/4.5
     + Started programming since 2022.06.16
     + Studied Basic data structures, Algorithms
     + Studied [프로그래밍 시작하기 : 파이썬 입문](https://www.inflearn.com/course/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%AC%B8-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90)
@@ -41,8 +39,10 @@
     + Sophomore  
     + Studying [이것이 취업을 위한 코딩 테스트다 with 파이썬](https://github.com/eric98040/python-for-coding-test)
     + Studying [혁펜하임의 AI DEEP DIVE](https://storage.googleapis.com/static.fastcampus.co.kr/prod/uploads/202211/080558-707/[%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4]-%EA%B5%90%EC%9C%A1%EA%B3%BC%EC%A0%95%EC%86%8C%EA%B0%9C%EC%84%9C-%ED%98%81%ED%8E%9C%ED%95%98%EC%9E%84%EC%9D%98-ai-deep-dive--online.-.pdf)
+    + Studying Naver AI Basic 2023
     + Studying [Flutter UI Intro : 플러터 UI 입문](https://github.com/eric98040/Flutter_UI_Intro) 
     + Studying [Flutter 앱 개발 완성](https://github.com/eric98040/Flutter_App_Basic_Udemy)
+    + Studying 코드팩토리 Flutter 3.0 앱 개발 - 10개의 프로젝트로 오늘 초보 탈출
 
 
 
