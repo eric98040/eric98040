@@ -39,7 +39,7 @@
     + Sophomore  
     + Studying [이것이 취업을 위한 코딩 테스트다 with 파이썬](https://github.com/eric98040/python-for-coding-test)
     + Studying [혁펜하임의 AI DEEP DIVE](https://storage.googleapis.com/static.fastcampus.co.kr/prod/uploads/202211/080558-707/[%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4]-%EA%B5%90%EC%9C%A1%EA%B3%BC%EC%A0%95%EC%86%8C%EA%B0%9C%EC%84%9C-%ED%98%81%ED%8E%9C%ED%95%98%EC%9E%84%EC%9D%98-ai-deep-dive--online.-.pdf)
-    + Studying Naver AI Basic 2023
+    + Studying [Naver AI Basic 2023](https://github.com/eric98040/AI_Basic_2023)
     + Studying [Flutter UI Intro : 플러터 UI 입문](https://github.com/eric98040/Flutter_UI_Intro) 
     + Studying [Flutter 앱 개발 완성](https://github.com/eric98040/Flutter_App_Basic_Udemy)
     + Studying 코드팩토리 Flutter 3.0 앱 개발 - 10개의 프로젝트로 오늘 초보 탈출
