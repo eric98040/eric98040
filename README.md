@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:c2e59c,100:64b3f4&height=300&section=header&text=Jaewon%20Kim&fontColor=f7f5f5&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:c2e59c,100:64b3f4&height=230&section=header&text=Jaewon%20Kim&animation=fadeIn&desc=Hi!%20I'm%20a%20student%20who%20likes%20learning%20AI,%20ML!&descAlignY=55&descSize=16&descAlign=53&fontAlignY=38&fontColor=f7f5f5&fontSize=90)
 
 # Jaewon Kim (eric98040)
 
@@ -24,26 +24,53 @@
     * Undergraduate Research Student at [DSBA](http://dsba.korea.ac.kr)
 
 
+<details>
+  <summary>🌱 <strong>2022</strong> - <i>Freshman</i></summary>
+<br/>
 
-+ 2022
-    + Freshman 
-    + GPA 4.46/4.5
-    + Started programming since 2022.06.16
-    + Studied Basic data structures, Algorithms
-    + Studied [프로그래밍 시작하기 : 파이썬 입문](https://www.inflearn.com/course/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%AC%B8-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90)
-    + Studied [Do it! 알고리즘 코딩 테스트 - 파이썬 편](https://github.com/eric98040/Do-It-Algorithm-Coding-Test)
+GPA 4.46/4.5
+  
+> Started programming since 2022.06.16
+>
+> <strong>Basic</strong> <br/>
+> Studied [`프로그래밍 시작하기 : 파이썬 입문`](https://www.inflearn.com/course/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%AC%B8-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90)
+> 
+> <strong>PS</strong> <br/>
+> Studied [`Do it! 알고리즘 코딩 테스트 - 파이썬 편`](https://github.com/eric98040/Do-It-Algorithm-Coding-Test)
+> 
+> <img src="https://img.shields.io/badge/Python-6a707a?&style=for-the-badge&logo=Python&logoColor=white&labelColor=3776AB"/></a>
+
+
+</details>
 
 
 
-+ 2023
-    + Sophomore  
-    + Studying [이것이 취업을 위한 코딩 테스트다 with 파이썬](https://github.com/eric98040/python-for-coding-test)
-    + Studying [혁펜하임의 AI DEEP DIVE](https://storage.googleapis.com/static.fastcampus.co.kr/prod/uploads/202211/080558-707/[%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4]-%EA%B5%90%EC%9C%A1%EA%B3%BC%EC%A0%95%EC%86%8C%EA%B0%9C%EC%84%9C-%ED%98%81%ED%8E%9C%ED%95%98%EC%9E%84%EC%9D%98-ai-deep-dive--online.-.pdf)
-    + Studying [Naver AI Basic 2023](https://github.com/eric98040/AI_Basic_2023)
-    + Studying [Flutter UI Intro : 플러터 UI 입문](https://github.com/eric98040/Flutter_UI_Intro) 
-    + Studying [Flutter 앱 개발 완성](https://github.com/eric98040/Flutter_App_Basic_Udemy)
-    + Studying 코드팩토리 Flutter 3.0 앱 개발 - 10개의 프로젝트로 오늘 초보 탈출
+<details>
+  <summary>⚡ <strong>2023</strong> - <i>Sophomore</i></summary>
+<br/>
 
+GPA /4.5
+  
+> Started studying AI, Flutter + PS
+>
+> <strong>PS</strong> <br/>
+> Studying [`이것이 취업을 위한 코딩 테스트다 with 파이썬`](https://github.com/eric98040/python-for-coding-test)
+> 
+> <strong>AI</strong> <br/>
+> Studying [`혁펜하임의 AI DEEP DIVE`](https://storage.googleapis.com/static.fastcampus.co.kr/prod/uploads/202211/080558-707/[%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4]-%EA%B5%90%EC%9C%A1%EA%B3%BC%EC%A0%95%EC%86%8C%EA%B0%9C%EC%84%9C-%ED%98%81%ED%8E%9C%ED%95%98%EC%9E%84%EC%9D%98-ai-deep-dive--online.-.pdf) <br/>
+> Studying [`Naver AI Basic 2023`](https://github.com/eric98040/AI_Basic_2023) <br/>
+>
+> <strong>Flutter</strong> <br/>
+> Studying [`Flutter UI Intro : 플러터 UI 입문`](https://github.com/eric98040/Flutter_UI_Intro) <br/>
+> Studying [`Flutter 앱 개발 완성`](https://github.com/eric98040/Flutter_App_Basic_Udemy) <br/>
+> Studying `코드팩토리 Flutter 3.0 앱 개발` - 10개의 프로젝트로 오늘 초보 탈출 <br/>
+> 
+> <img src="https://img.shields.io/badge/Python-6a707a?&style=for-the-badge&logo=Python&logoColor=white&labelColor=3776AB"/></a>
+> <img src="https://img.shields.io/badge/Dart-6a707a?style=for-the-badge&logo=Dart&logoColor=white&labelColor=2AB1AC"/></a>
+> <img src="https://img.shields.io/badge/Flutter-6a707a?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=13AFF0"/></a>
+
+
+</details>
 
 
 - Techs I've used least one :
