@@ -63,7 +63,7 @@ GPA /4.5
 > <strong>Flutter</strong> <br/>
 > Studying [`Flutter UI Intro : 플러터 UI 입문`](https://github.com/eric98040/Flutter_UI_Intro) <br/>
 > Studying [`Flutter 앱 개발 완성`](https://github.com/eric98040/Flutter_App_Basic_Udemy) <br/>
-> Studying `코드팩토리 Flutter 3.0 앱 개발` - 10개의 프로젝트로 오늘 초보 탈출 <br/>
+> Studying [`코드팩토리 Flutter 3.0 앱 개발 - 10개의 프로젝트로 오늘 초보 탈출`](https://github.com/eric98040/CodeFactory_Flutter_Basics) <br/>
 > 
 > <img src="https://img.shields.io/badge/Python-6a707a?&style=for-the-badge&logo=Python&logoColor=white&labelColor=3776AB"/></a>
 > <img src="https://img.shields.io/badge/Dart-6a707a?style=for-the-badge&logo=Dart&logoColor=white&labelColor=2AB1AC"/></a>
