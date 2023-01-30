@@ -21,7 +21,8 @@
     * Naver Clova AI Rush 2023
     * Samsung Software Maestro 
     * Naver AI Tech BoostCamp 
-    * Undergraduate Research Student at [DSBA](http://dsba.korea.ac.kr)
+    * Skilled Industry Personnel at [`Gauss Labs`](https://www.gausslabs.ai/)
+    * Undergraduate Research Student 
 
 
 <details>
