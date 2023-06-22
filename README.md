@@ -15,7 +15,7 @@
 * Korea University Undergraduate (2022~) - Majoring in Semiconductor Engineering
 * Sk Hynix Full Scholarship (2022~2028)
 * Interests: Machine Learning, Deep Learning, Computer vision, NLP, Algorithms, etc...
-* ['Tech blog'](https://jwk0302.tistory.com/)
+* [`Tech blog`](https://jwk0302.tistory.com/)
 
 
 - **I'm looking forward to** (if possible) : 
