@@ -22,7 +22,8 @@ I have a keen interest in:
 * Generative Models (GAN, Diffusion Models): 3D modeling, Inverse problems, and Super-resolution techniques.
 * Graph Neural Networks (GNN): Exploring their potential in semiconductor design and optimization.
 
-My life motto is "Consistency of effort over the long run is everything," which reflects my commitment to steady and persistent growth. I regularly document my learning journey on my technical blog, showcasing my dedication and attention to detail.
+My life motto is "Consistency of effort over the long run is everything," which reflects my commitment to steady and persistent growth. 
+I regularly post my learning journey on my technical blog, showcasing my dedication and attention to detail.
 
 
 ## 🎓 Profile
@@ -40,11 +41,13 @@ My life motto is "Consistency of effort over the long run is everything," which 
 * [`Tech blog2`](https://jwk0302.tistory.com/)
 
 
-- **I'm looking forward to** (if possible) : 
+- **I'm looking forward to**: 
     * Participation in Competitions (DACON, Kaggle, etc.)
     * Skilled Industry Personnel(산업기능요원)
-    * Undergraduate Research Student 
+    * Undergraduate Research Student
+    * Visiting Student Research Program
 
+## 📔 Achivements
 
 <details>
   <summary>🌱 <strong>2022</strong> - <i>Freshman</i></summary>
