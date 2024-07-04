@@ -15,16 +15,14 @@
 * Korea University Undergraduate (2022~) - Majoring in Semiconductor Engineering
 * Sk Hynix Full Scholarship (2022~2028)
 * Interests:
-   * Generative Models(GAN, Diffusion Model) - 3D Shape Generation, Inverse Design / Problem
+   * Generative Models(GAN, Diffusion Model) - 3D Modeling, Inverse Problem
    * Graph Neural Networks(GNN)
 * [`Tech blog1`](https://jaewon.work/)
 * [`Tech blog2`](https://jwk0302.tistory.com/)
 
 
 - **I'm looking forward to** (if possible) : 
-    * Naver Clova AI Rush 2023
-    * Samsung Software Maestro 
-    * Naver AI Tech BoostCamp 
+    * Participation in Competitions (DACON, Kaggle, etc.)
     * Skilled Industry Personnel(산업기능요원)
     * Undergraduate Research Student 
 
@@ -54,9 +52,9 @@ GPA 4.46/4.5
   <summary>⚡ <strong>2023</strong> - <i>Sophomore</i></summary>
 <br/>
 
-GPA /4.5
+GPA 4.38/4.5
   
-> Started studying AI, Flutter + PS
+> Started studying ML, Flutter + PS
 >
 > <strong>PS</strong> <br/>
 > Studying [`이것이 취업을 위한 코딩 테스트다 with 파이썬`](https://github.com/eric98040/python-for-coding-test)
@@ -78,6 +76,25 @@ GPA /4.5
 > <img src="https://img.shields.io/badge/Python-6a707a?&style=for-the-badge&logo=Python&logoColor=white&labelColor=3776AB"/></a>
 > <img src="https://img.shields.io/badge/Dart-6a707a?style=for-the-badge&logo=Dart&logoColor=white&labelColor=2AB1AC"/></a>
 > <img src="https://img.shields.io/badge/Flutter-6a707a?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=13AFF0"/></a>
+
+
+</details>
+
+<details>
+  <summary> 🧑🏻‍💻 <strong>2022</strong> - <i>Junior</i></summary>
+<br/>
+
+GPA 4.39/4.5
+  
+> Started Studying DL, Reading Papers
+>
+> <strong>Basic</strong> <br/>
+> Studied [`프로그래밍 시작하기 : 파이썬 입문`](https://www.inflearn.com/course/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%AC%B8-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90)
+> 
+> <strong>PS</strong> <br/>
+> Studied [`Do it! 알고리즘 코딩 테스트 - 파이썬 편`](https://github.com/eric98040/Do-It-Algorithm-Coding-Test)
+> 
+> <img src="https://img.shields.io/badge/Python-6a707a?&style=for-the-badge&logo=Python&logoColor=white&labelColor=3776AB"/></a>
 
 
 </details>
