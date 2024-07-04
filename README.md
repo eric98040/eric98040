@@ -14,8 +14,9 @@
 * Jaewon Kim
 * Korea University Undergraduate (2022~) - Majoring in Semiconductor Engineering
 * Sk Hynix Full Scholarship (2022~2028)
-* Interests: Machine Learning, Deep Learning, Computer vision, NLP, Algorithms, etc...
-* [`Tech blog`](https://jwk0302.tistory.com/)
+* Interests: Generative Models(GAN, Diffusion based on 3D Modeling, Inverse Design), Graph Neural Networks(GNN)
+* [`Tech blog1`](https://jaewon.work/)
+* [`Tech blog2`](https://jwk0302.tistory.com/)
 
 
 - **I'm looking forward to** (if possible) : 
