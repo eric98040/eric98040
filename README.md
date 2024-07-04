@@ -14,7 +14,9 @@
 * Jaewon Kim
 * Korea University Undergraduate (2022~) - Majoring in Semiconductor Engineering
 * Sk Hynix Full Scholarship (2022~2028)
-* Interests: Generative Models(GAN, Diffusion based on 3D Modeling, Inverse Design), Graph Neural Networks(GNN)
+* Interests:
+   * Generative Models(GAN, Diffusion Model) - 3D Shape Generation, Inverse Design / Problem
+   * Graph Neural Networks(GNN)
 * [`Tech blog1`](https://jaewon.work/)
 * [`Tech blog2`](https://jwk0302.tistory.com/)
 
