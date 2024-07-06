@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:c2e59c,100:64b3f4&height=230&section=header&text=Jaewon%20Kim&animation=fadeIn&desc=Hi!%20I'm%20a%20student%20who%20likes%20learning%20AI,%20ML!&descAlignY=55&descSize=16&descAlign=53&fontAlignY=38&fontColor=f7f5f5&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:c2e59c,100:64b3f4&height=230&section=header&text=Jaewon%20Kim&animation=fadeIn&desc=Consistency%20of%20effort%20over%20the%20long%20run%20is%20everything&descAlignY=55&descSize=16&descAlign=53&fontAlignY=38&fontColor=f7f5f5&fontSize=90)
 
 ## *"Consistency of effort over the long run is everything"*
 
