@@ -24,7 +24,7 @@ I have a keen interest in:
 * Graph Neural Networks (GNN): Exploring their potential in semiconductor design and optimization.
 
 My life motto is "Consistency of effort over the long run is everything," which reflects my commitment to steady and persistent growth. 
-I regularly post my learning journey on my technical blog, showcasing my dedication and attention to detail.
+I post my learning journey daily, focusing on detailed and precise explanations of complex topics, and share these insights on my blog.
 
 
 ## 🎓 Profile
