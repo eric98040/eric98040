@@ -66,7 +66,7 @@ GPA 4.39/4.5
 > 
 > <img src="https://img.shields.io/badge/Python-6a707a?&style=for-the-badge&logo=Python&logoColor=white&labelColor=3776AB"/></a>
 
-
+</details>
 
 - Techs I've used least one :
 
