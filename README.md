@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:c2e59c,100:64b3f4&height=230&section=header&text=Jaewon%20Kim&animation=fadeIn&desc=Consistency%20of%20effort%20over%20the%20long%20run%20is%20everything&descAlignY=55&descSize=16&descAlign=53&fontAlignY=38&fontColor=f7f5f5&fontSize=90)
 
-## *"Consistency of effort over the long run is everything"*
+## *"Consistency of effort over the long run... is everything"*
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feric98040&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/jae.__.one/)](https://www.instagram.com/jae.__.one/)
@@ -23,7 +23,7 @@ I have a keen interest in:
 * Generative Models (GAN, Diffusion Models): 3D modeling, Inverse problems, and Super-resolution techniques.
 * Graph Neural Networks (GNN): Exploring their potential in semiconductor design and optimization.
 
-My life motto is "Consistency of effort over the long run... is everything," which reflects my commitment to steady and persistent growth. 
+My life motto is "Consistency of effort over the long run is everything," which reflects my commitment to steady and persistent growth. 
 I post my learning journey daily, focusing on detailed and precise explanations of complex topics, and share these insights on my blog.
 
 
