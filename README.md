@@ -50,23 +50,7 @@ I post my learning journey daily, focusing on detailed and precise explanations 
 
 ## 📔 Achivements
 
-<details>
-  <summary> 🏫 <strong>2022</strong> - <i>University</i></summary>
-<br/>
-
-GPA 4.39/4.5
-  
-> Started Studying DL, Reading Papers
->
-> <strong>Basic</strong> <br/>
-> Studied [`프로그래밍 시작하기 : 파이썬 입문`](https://www.inflearn.com/course/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%AC%B8-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90)
-> 
-> <strong>PS</strong> <br/>
-> Studied [`Do it! 알고리즘 코딩 테스트 - 파이썬 편`](https://github.com/eric98040/Do-It-Algorithm-Coding-Test)
-> 
-> <img src="https://img.shields.io/badge/Python-6a707a?&style=for-the-badge&logo=Python&logoColor=white&labelColor=3776AB"/></a>
-
-</details>
+- [`CV`](https://drive.google.com/file/d/1rSmjXPnMrkVLXnfcDNX9SieWEd-amd2U/view?usp=sharing)
 
 - Techs I've used least one :
 
