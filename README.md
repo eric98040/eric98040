@@ -37,7 +37,7 @@ I post my learning journey daily, focusing on detailed and precise explanations 
    * Generative Models(GAN, Diffusion Model): 3D Modeling, Inverse Problem, Super-Resolution
    * Graph Neural Networks(GNN)
  
-     
+* [`CV`](https://drive.google.com/file/d/1rSmjXPnMrkVLXnfcDNX9SieWEd-amd2U/view?usp=sharing)
 * [`Tech blog1`](https://jaewon.work/)
 * [`Tech blog2`](https://jwk0302.tistory.com/)
 
