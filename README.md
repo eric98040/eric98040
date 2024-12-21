@@ -21,7 +21,7 @@ I'm currently an undergraduate research student at CDAL and an SK Hynix full sch
 I have a keen interest in:
 
 * Generative Models (GAN, Diffusion Models): 3D modeling, Inverse problems, and Super-resolution techniques.
-* Graph Neural Networks (GNN): Exploring their potential in semiconductor design and optimization.
+* Reinforcement Learning: Exploring model-based approaches and sample efficiency optimization
 
 My life motto is "Consistency of effort over the long run is everything," which reflects my commitment to steady and persistent growth. 
 I post my learning journey daily, focusing on detailed and precise explanations of complex topics, and share these insights on my blog.
