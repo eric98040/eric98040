@@ -35,7 +35,7 @@ I post my learning journey daily, focusing on detailed and precise explanations 
   * Undergraduate Research Student @ [`CDAL`]( http://cdal.korea.ac.kr) 
 * Interests:
    * Generative Models(GAN, Diffusion Model): 3D Modeling, Inverse Problem, Super-Resolution
-   * Graph Neural Networks(GNN)
+   * Reinforcement Learning
  
 * [`CV`](https://jaewon.work/assets/pdf/CV_Jaewon_Kim.pdf)
 * [`Tech blog1`](https://jaewon.work/)
@@ -44,7 +44,6 @@ I post my learning journey daily, focusing on detailed and precise explanations 
 
 - **I'm looking forward to**: 
     * Participation in Competitions (DACON, Kaggle, etc.)
-    * Skilled Industry Personnel(산업기능요원)
     * Undergraduate Research Student
     * Visiting Student Research Program
 
