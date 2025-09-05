@@ -13,9 +13,10 @@
 
 My research interests include:
 
-- **Generative Models:** Diffusion models, GANs with a focus on controlled generation and optimization.
-- **Reinforcement Learning:** Exploring both model-based and model-free methods to enhance sample efficiency.
-- **Physical AI:** Integrating physical principles into AI systems to boost model robustness and real-world applicability. Physical AI applies concepts from physics to inform model design, optimization, and interpretation.
+- **Generative Models** 
+- **Stochastic Partial Differential Equations**
+- **Deep Reinforcement Learning**
+- **Physics-Informed Machine Learning**
 
 I document my research journey and technical deep dives on my [`tech blog`](https://www.jaewon.work/).  
 
